@@ -1,3 +1,0 @@
-/home/pp/cura_workspace/MySlicer/build/CMakeFiles/MySlicer.dir
-/home/pp/cura_workspace/MySlicer/build/CMakeFiles/edit_cache.dir
-/home/pp/cura_workspace/MySlicer/build/CMakeFiles/rebuild_cache.dir
